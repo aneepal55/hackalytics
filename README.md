@@ -9,20 +9,6 @@ Instead of many unrelated charts, the app follows a strict workflow:
 4) run a strategy tournament,
 5) execute the top plan.
 
-## Why this impresses judges
-
-- **Clear problem + audience:** built for coaching staff, performance analysts, and fantasy strategists.
-- **Advanced feature mix:** predictive modeling, lineup optimization, and opponent scouting workflow.
-- **Strong storytelling UI:** one dashboard that demonstrates data-to-decision flow in real time.
-
-## Why this stands out in a data analytics hackathon
-
-- **Decision-centric UX:** every module contributes to one final output: the chosen game plan.
-- **Multi-objective optimization:** strategy score balances win probability, Monte Carlo confidence, chemistry, and risk penalty.
-- **Simulation-backed planning:** each strategy archetype is evaluated with stochastic simulation.
-- **Explainability-first analytics:** sensitivity analysis shows what drives probability shifts.
-- **Operational realism:** lineup feasibility reacts to injuries, budget, minutes, and formation rules.
-
 ## Core product modules
 
 1. **Opponent Intelligence Ingest**
